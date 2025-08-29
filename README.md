@@ -8,3 +8,4 @@ gemini mcp add  -t http deepwiki https://mcp.deepwiki.com/mcp
 claude mcp add --transport http context7 https://mcp.context7.com/mcp --header "CONTEXT7_API_KEY: YOUR_API_KEY"  
 claude mcp add -s user -t http deepwiki https://mcp.deepwiki.com/mcp  
 claude mcp add playwright npx @playwright/mcp@latest   
+gemini mcp add  deepwiki npx @upstash/context7-mcp  
