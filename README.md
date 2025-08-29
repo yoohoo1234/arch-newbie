@@ -1,6 +1,5 @@
 # read
-foliate sigil
-mcomix
+paru -S foliate sigil mcomix
 
 # mcp server
 ```json
