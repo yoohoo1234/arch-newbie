@@ -1,7 +1,7 @@
-# read
+### reader
 paru -S foliate sigil mcomix
 
-# mcp server
+### mcp server
 ```json
 {
   "mcpServers": {
