@@ -20,7 +20,7 @@ paru -S foliate sigil mcomix
 
 ```
 
-`claude mcp add -t http context7 https://mcp.context7.com/mcp    
+`claude mcp add -t http context7 https://mcp.context7.com/mcp`      
 `claude mcp add -s user -t http deepwiki https://mcp.deepwiki.com/mcp`   
 `claude mcp add playwright npx @playwright/mcp@latest`     
 
