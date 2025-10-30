@@ -1,5 +1,5 @@
 ### reader
-`paru -S foliate sigil mcomix micro mpv gamescope umu-launcher`    
+`paru -S foliate sigil mcomix  mpv gamescope umu-launcher`    
 
 ### mcp
 
